@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3773"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   width="400"
+   height="400"
+   sodipodi:docname="smbolos-religiosos-16908640.jpg">
+  <metadata
+     id="metadata3779">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3777" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview3775"
+     showgrid="false"
+     inkscape:zoom="1.2561656"
+     inkscape:cx="85.037304"
+     inkscape:cy="200"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3773" />
+  <path
+     sodipodi:type="star"
+     style="fill:none;stroke:#000000;stroke-width:31.9112095;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path5027"
+     sodipodi:sides="3"
+     sodipodi:cx="117.02279"
+     sodipodi:cy="250.3382"
+     sodipodi:r1="171.20206"
+     sodipodi:r2="55.056202"
+     sodipodi:arg1="-1.5940479"
+     sodipodi:arg2="-0.5468504"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="M 113.04243,79.182416 267.23822,332.46899 -29.212285,339.36318 z"
+     inkscape:transform-center-x="-0.071141053"
+     inkscape:transform-center-y="-28.642195"
+     transform="matrix(0.67047961,0.01476129,-0.01476129,0.67047961,111.51509,-17.152894)" />
+  <path
+     transform="matrix(-0.64551686,-0.02072924,0.02072924,-0.64551686,256.63202,311.66804)"
+     inkscape:transform-center-y="27.217891"
+     inkscape:transform-center-x="-0.48926488"
+     d="M 113.04243,79.182416 267.23822,332.46899 -29.212285,339.36318 z"
+     inkscape:randomized="0"
+     inkscape:rounded="0"
+     inkscape:flatsided="true"
+     sodipodi:arg2="-0.5468504"
+     sodipodi:arg1="-1.5940479"
+     sodipodi:r2="55.056202"
+     sodipodi:r1="171.20206"
+     sodipodi:cy="250.3382"
+     sodipodi:cx="117.02279"
+     sodipodi:sides="3"
+     id="path5029"
+     style="fill:none;stroke:#000000;stroke-width:32.91114807;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     sodipodi:type="star" />
+</svg>
